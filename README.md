@@ -20,7 +20,9 @@ A “worst first” approach is not a cost-effective way to keep bridges healthy
 According to ASCE, the current cost to rehabilitate the nation’s bridges is more than $120 billion. As with most things earthquakes and other disasters also can suddenly pass and if there's not a precise monitoring, issues could be fatal.
 
 And well, this is a very personal problem. On September the 7th of 2017 there was an earthquake in Mexico City. At about 8.1 in the Richter scale it caused structural damage to several buildings around the city and a couple pedestrian bridges in the my University. This was the result:
-https://www.youtube.com/watch?v=eVkoiONCB8s
+[![SGD](https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/03/tacoma-narrows-man-og.jpg)](https://www.youtube.com/watch?v=eVkoiONCB8s)
+
+Sorry github does not allow embed videos.
 
 With better monitoring and alert systems we could have probably spotted on these failures and prevented the crisis, or maybe acted on it faster.
 
@@ -40,6 +42,8 @@ Our solution will be to place vibration sensors (using the SmartEdge Agile’s a
 Current bridge monitoring systems are exclusively for sensor monitoring and information deployment to the user, most of the time they have to go to the bridge directly and check on the displays the information that the sensors provide. In the case of bridges the engineer in charge and if these systems have some processing in the Cloud, it is only for the aesthetic deployment of the information of the sensors, but this is very rare and not a common occurrence.
 
 Some examples are these companies: - https://www.campbellsci.com/structural-health-monitoring - http://alliancesensors.com/bridge-monitoring-systems This solution will result in: - Less spending on excessive maintenance of the bridges. - Point out critical areas where the bridge is experiencing more wear. - Avoid structural damage that may be critical or fatal to bridges. - Generate more trust between customers and users of bridges.
+
+<img src="https://pbs.twimg.com/media/DrCtqQrVAAAT7Ky.jpg:large" width="400">
 
 ## Materials:
 
@@ -74,6 +78,8 @@ The first step to realize this project is to create a brainium account and add y
 
  - Go to https://www.brainium.com/portal and select ‘sign up’.
  - You will receive a key by e-mail, use it to validate your account creation.
+ 
+ <img src="https://i.ibb.co/gTVr5G2/sing.png" width="1000">
  
 1.2.Install your gateway:
 
