@@ -123,6 +123,8 @@ The name can be changed as needed while ID always remains the same.
 
 Press ‘+’ to connect the Agile device.
 
+ <img src="https://i.ibb.co/j56Zdy2/bbbbm.png" width="1000">
+
 You will be asked to accept the terms of Brainium discovery period. After that, each device
 you add to the portal for the first time will have the following limits:
 
