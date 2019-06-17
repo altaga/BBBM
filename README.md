@@ -246,7 +246,7 @@ https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es_MX
 
 ## Demo:
 
-En este video presentaremos el demo de nuestro producto y ademas mostraremos como fue nuestra busqeda por la mejor AI para realizarlo, porfavor disfrutenlo.
+In this video we will present the demo of our product and also we will show you the search for the best AI to do it, please enjoy it.
 
 
 
