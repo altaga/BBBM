@@ -248,11 +248,9 @@ https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es_MX
 
 In this video we will present the demo of our product and also we will show you the search for the best AI to do it, please enjoy it.
 
-
-
 Video: Click on the image:
 
-[![SGD](https://media.giphy.com/media/9VeuJ8sII8rYD7XViE/giphy.gif)](https://www.youtube.com/watch?v=uu8WHsOgXgg)
+[![BBBM]()](https://www.youtube.com/watch?v=uu8WHsOgXgg)
 
 Sorry github does not allow embed videos.
 
