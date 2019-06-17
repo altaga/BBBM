@@ -250,7 +250,7 @@ In this video we will present the demo of our product and also we will show you 
 
 Video: Click on the image:
 
-[![BBBM]()](https://www.youtube.com/watch?v=uu8WHsOgXgg)
+[![BBBM](https://i.ibb.co/SwdgP8z/BBBM.png)](https://www.youtube.com/watch?v=uu8WHsOgXgg)
 
 Sorry github does not allow embed videos.
 
