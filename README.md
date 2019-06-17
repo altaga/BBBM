@@ -30,7 +30,9 @@ With better monitoring and alert systems we could have probably spotted on these
 
 * [Introduction](#introduction)
 * [Materials](#materials)
-* [Development](#development)
+* [Connection](#connection)
+* [Train](#train)
+* [IFTTT](#ifttt)
 * [The Final Product](#the-final-product)
 * [Comments](#comments)
 * [References](#references)
@@ -68,7 +70,7 @@ Optional Software:
 
 - ArduinoIDE.
 
-## Development:
+## Connection:
 
 The first step to realize this project is to create a brainium account and add your first device, all the images and instructions to configure our device were obtained from the official guide of Brainium. (https://brainium.blob.core.windows.net/public/docs/User%20manual%20Brainium%20Portal.pdf)
 
@@ -164,7 +166,7 @@ gateway till the completion of the firmware update.
 When updating process is finished you will get a notification message. Update icon will
 disappear until a new firmware version is available. 
 
-2. Create your first predictive maintenance model.
+## Train:
 
   - We created a new workspace.
   
@@ -182,6 +184,65 @@ disappear until a new firmware version is available.
 
 [![SGD](https://img.interempresas.net/fotos/1843350.jpeg)](https://youtu.be/cFr_DeH4-iQ)
 
+Sorry github does not allow embed videos.
+
+- Once we have a large sample of patterns, we rename the patterns that are relevant to our model and we create the model.
+
+<img src="https://i.ibb.co/qr4hqsf/Capture11.png" width="1000">
+
+The patterns we recorded were the following, the most important for us and our notification that predictive maintenance is required is Max Vibration S:
+
+- S1: Static State.
+- Med Vibration S.
+- S2: Static State.
+- Max Vibration S.
+- S3: Static State.
+
+- Once the model is created, we go to the projects tab and create a new one.
+
+<img src="https://i.ibb.co/Wyz3VrH/tab.png" width="1000">
+
+- We assign to our project the BBBM device.
+
+<img src="https://i.ibb.co/1Xb4kCB/bbbbbbbm.png" width="1000">
+
+# IFTTT:
+
+- First we need to create an account in IFTTT, fortunately Brainium has an integration with this platform for integration of services.
+
+<img src="https://i.ibb.co/Bf9cYLg/Capture1.png" width="1000">
+
+- We search for "Brainium" in the search bar.
+
+<img src="https://i.ibb.co/tDLgCLW/Capture2.png" width="1000">
+
+- We enter any of the applets and press on the author Brainium.
+
+<img src="https://i.ibb.co/KbR8SJ8/Capture3.png" width="1000">
+
+- We select "Connect" to make the connection with the Brainium platform.
+
+<img src="https://i.ibb.co/SxMmKXB/Capture45.png" width="1000">
+
+- We put our credentials to connect.
+
+<img src = "https://i.ibb.co/LJ5R4MH/Capture55.png" width = "1000">
+
+- We allow the access.
+
+<img src = "https://i.ibb.co/6rg7qqx/Capture56.png" width = "1000">
+
+- We selected the Applet "Get all Brainium alerts on your device".
+
+<img src = "https://i.ibb.co/y42CbmL/Capture57.png" width = "1000">
+
+- Turn ON and thats all!
+
+<img src = "https://i.ibb.co/sJ23cFV/Capture58.png" width = "1000">
+
+- To finish this, we need to install the IFTTT app on your device.
+
+https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es_MX
 
 ## The Final Product:
 
