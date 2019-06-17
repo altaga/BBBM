@@ -33,7 +33,7 @@ With better monitoring and alert systems we could have probably spotted on these
 * [Connection](#connection)
 * [Train](#train)
 * [IFTTT](#ifttt)
-* [The Final Product](#the-final-product)
+* [Demo](#demo)
 * [Comments](#comments)
 * [References](#references)
 
@@ -244,33 +244,16 @@ The patterns we recorded were the following, the most important for us and our n
 
 https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es_MX
 
-## The Final Product:
+## Demo:
 
-The final project was installed in a room as shown in the video and several experiments were made on what kind of gases or hazards the NXP can detect effectively, it is a great advantage to have an integrated system like this one. This system could save the life of a person in a dangerous situation.
+En este video presentaremos el demo de nuestro producto y ademas mostraremos como fue nuestra busqeda por la mejor AI para realizarlo, porfavor disfrutenlo.
+
+
 
 Video: Click on the image:
 
 [![SGD](https://media.giphy.com/media/9VeuJ8sII8rYD7XViE/giphy.gif)](https://www.youtube.com/watch?v=uu8WHsOgXgg)
 
 Sorry github does not allow embed videos.
-
-## Comments:
-
-This product was designed with the NXP Rapid IoT Prototyping Kit shows several competitive advantages over the products currently on the market.
-
-- It's economic
-- Does not require large infrastructure investment
-- Provide an interal solution and easily adaptable to the needs of users.
-- The relay module is capable of activating any type of high voltage system.
-
-Therefore, the system could be complemented with a water sprinkler system if it were a fire or even adapted to any SmartHome system.
-
-## References:
-
-All the information about the technology used, and direct references are in our wiki:
-
-Wiki: https://github.com/altaga/Smart-Gas-Detector/wiki
-
-Top:
 
 * [Table of Contents](#table-of-contents)
