@@ -166,15 +166,21 @@ disappear until a new firmware version is available.
 
 2. Create your first predictive maintenance model.
 
-- We created a new workspace.
+  - We created a new workspace.
+  
+<img src="https://i.ibb.co/9rGSVnX/WS1.png" width="1000">
 
-- We give the project a name.
+  - We give the project a name.
+  
+  <img src="https://i.ibb.co/cCvszMs/WS2.png" width="1000">
 
-- We select the device that will obtain the patterns of the machine.
+  - We select the device that will obtain the patterns of the machine.
+  
+  <img src="https://i.ibb.co/nfK3wCQ/WS3.png" width="1000">
 
-- In our case we connect the machine to the bridge simulator, as you can see in the following video.
+  - In our case we connect the machine to our bridge simulator, as you can see in the following video to detect oscilation patterns.
 
-
+[![SGD](https://img.interempresas.net/fotos/1843350.jpeg)](https://youtu.be/cFr_DeH4-iQ)
 
 
 ## The Final Product:
