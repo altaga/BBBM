@@ -1,5 +1,7 @@
 # BBBM : Brainium Bridge Baby Monitor for predictive maintenance
 
+<img src="https://i.ibb.co/SwdgP8z/BBBM.png" width="600">
+
 The little monitoring that bridges have in most countries in the world, and the structural damage that they can have over time and as the lack of preventive maintenance can cause a partial or total failure of the bridge. 
 
 The main problems by which a bridge can fail and fall are: 
