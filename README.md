@@ -1,6 +1,6 @@
 # BBBM : Brainium Bridge Baby Monitor for predictive maintenance
 
-<img src="https://i.ibb.co/SwdgP8z/BBBM.png" width="600">
+<img src="https://i.ibb.co/zF0d7FV/BBBM.png" width="600">
 
 The little monitoring that bridges have in most countries in the world, and the structural damage that they can have over time and as the lack of preventive maintenance can cause a partial or total failure of the bridge. 
 
@@ -252,7 +252,7 @@ In this video we will present the demo of our product and also we will show you 
 
 Video: Click on the image:
 
-[![BBBM](https://i.ibb.co/SwdgP8z/BBBM.png)](https://youtu.be/IpRtHPIniXw)
+[![BBBM](https://i.ibb.co/zF0d7FV/BBBM.png)](https://youtu.be/IpRtHPIniXw)
 
 Sorry github does not allow embed videos.
 
